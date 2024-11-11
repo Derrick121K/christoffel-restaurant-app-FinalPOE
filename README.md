@@ -1,4 +1,4 @@
-###Christoffel's Restaurant App
+Christoffel's Restaurant App
 
 This is a cross-platform mobile app built with React Native for Christoffel's Restaurant, allowing dynamic menu management, order status checking, history tracking, and enhanced dish filtering capabilities. The app provides a user-friendly interface for Christoffel to add, view, and manage his custom menu.
 
@@ -11,9 +11,9 @@ Features
 - **Order Status**: Provides a quick order status for each dish with an interactive image click.
 - **Persistent Storage**: All data, including menu items and history, is saved using AsyncStorage.
 
- ###Getting Started
+Getting Started
 
- ###Prerequisites
+ Prerequisites
 
 1. **Node.js** and **npm/yarn** installed on your machine.
 2. **React Native CLI** or **Expo CLI** (depending on the setup).
